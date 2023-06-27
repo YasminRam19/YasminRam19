@@ -6,9 +6,9 @@
 🤞🏻  2023 Goals: Expertise in Web development and become a full-time developer.<br />
 ⚡ Fun fact: Travel junkie and chocolate fan.<br />
 
-### Skills 
+## Skills 
 💻: JS / HTML / CSS
 
-### Social media
+## Social media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/yasmín-ramírez-7153961a7/)  
 
