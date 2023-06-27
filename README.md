@@ -1,5 +1,5 @@
 ### Hi there, I'm Yasmin 👋
-![Header](./github-header-image.png)
+![Header](./yasmin_github_header.png)
 
 <!--
 **YasminRam19/YasminRam19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
